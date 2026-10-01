@@ -1,0 +1,7 @@
+{
+  "name": "SkillPass – Digital Skill Passport",
+  "description": "Proof-of-skill and digital credential platform for students converting claims into verifiable project and GitHub evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
